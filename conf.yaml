@@ -1,0 +1,2 @@
+port: 3390
+path: /tmp/LogServer/ 
